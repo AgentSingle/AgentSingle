@@ -1,4 +1,4 @@
-# Hi there 👋 I am Sudipta Manda A Full-Stack Developer
+# Hi there 👋 I am ✨Sudipta Mandal✨ A Full-Stack Developer
 ### I’m currently working on ✨ ataota.in ✨
 <!--
 **AtaOta/AtaOta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
