@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtaOta](https://github.com/AtaOta)
 
+- 📝 To edit your profile like me go: [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
 - 💬 Ask me about **javascript, python, django, vue, html & css**
 
 - 📫 How to reach me **mandalsudipta.1996@gmail.com**
