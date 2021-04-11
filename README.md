@@ -49,7 +49,7 @@
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
 </a>
 <a href="https://www.jetbrains.com/pycharm/download/#section=windows" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" alt="PyCharm" width="40" height="40"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvrQAt67aIUEqSULoFVWJv3il2MQM_KTDri54t85YbCbZrxU-i_3mEXtEWsduw2PJdvL8&usqp=CAU" alt="PyCharm" width="40" height="40"/> 
 </a> 
 <a href="https://visualstudio.microsoft.com/" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" alt="visualstudio" width="40" height="40"/> 
