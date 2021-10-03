@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm SUDIPTA MANDAL</h1>
+<h1 align="center">
+  <img src='https://www.smileysapp.com/gif-emoji/waving-hi.gif' alt='emoji' width="100" height="100">
+  I'm SUDIPTA MANDAL
+  <img src='https://www.smileysapp.com/gif-emoji/cheers.gif' alt='emoji' width="100" height="100">
+</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 - 🔭 I’m currently working on ataota.in **ATAOTA INDIA**
