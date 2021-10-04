@@ -1,16 +1,11 @@
 <h1 align="center">
-  <img src='https://www.smileysapp.com/gif-emoji/waving-hi.gif' alt='emoji' width="100" height="100">
+  <img src='https://www.smileysapp.com/gif-emoji/waving-hi.gif' alt='emoji' width="60" height="60">
   I'm SUDIPTA MANDAL
-  <img src='https://www.smileysapp.com/gif-emoji/cheers.gif' alt='emoji' width="100" height="100">
+  <img src='https://www.smileysapp.com/gif-emoji/cheers.gif' alt='emoji' width="60" height="60">
 </h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 - 🔭 I’m currently working on ataota.in **ATAOTA INDIA**
-
-- 🌱 I’m currently learning **vue js**
-
-- 🤝 I’m looking for help with [soft_image_cropper](https://github.com/AtaOta/soft_image_cropper)
-
 - 👨‍💻 All of my projects are available at [https://github.com/AtaOta](https://github.com/AtaOta)
 
 - 📝 To edit your profile like me go: [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
