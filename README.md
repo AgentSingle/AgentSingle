@@ -6,7 +6,9 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <h3 align="center"><a href="https://github.com/AtaOta/AI_Carousel" target="_blank">**AI_CAROUSEL**</a></h3>
+
 - 🔭 I’m currently working on ataota.in **ATAOTA INDIA**
+
 - 👨‍💻 All of my projects are available at [https://github.com/AtaOta](https://github.com/AtaOta)
 
 - 📝 To edit your profile like me go: [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
