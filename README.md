@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **javascript, python, django, vue, html & css**
 
-- 📫 How to reach me **mandalsudipta.1996@gmail.com**
+- <h4><a href="https://ataota.in/AboutUs/" target="_blank">**Contact With Me**</a></h4>
 
 
 <h3 align="left">Languages and Tools:</h3>
