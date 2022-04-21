@@ -85,5 +85,5 @@
 </a> 
 </p>
 
-- (Emoji Link Is Here: http://www.symbols-n-emoticons.com/p/gif-animated-emoji.html)
+- (Emoji Link Are Here: http://www.symbols-n-emoticons.com/p/gif-animated-emoji.html)
 
