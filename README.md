@@ -5,16 +5,16 @@
 </h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<h3 align="center"><a href="https://github.com/AtaOta/VUE_AI_CAROUSEL" target="_blank">vue-ai-carousel</a></h3><h3 align="center"><a href="https://www.npmjs.com/package/vue-ai-carousel" target="_blank">NPM Link</a></h3>
 
-- 🔭 I’m currently working on ataota.in **ATAOTA INDIA**
+  
+- 💥 <a href="https://github.com/AtaOta/VUE_AI_CAROUSEL" target="_blank">[ vue-ai-carousel ]</a> : <a href="https://www.npmjs.com/package/vue-ai-carousel" target="_blank">[ NPM Link ]</a></h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AtaOta](https://github.com/AtaOta)
 
-- 📝 To edit your profile like me go: [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- 💥 I’m currently working on ataota.in **ATAOTA INDIA**
 
-- 💬 Ask me about **javascript, python, django, vue, html & css**
+- 💥 All of my projects are available at [https://github.com/AtaOta](https://github.com/AtaOta)
 
+- 💥 Ask me about **javascript, python, django, vue, html & css**
 - <h4><a href="https://ataota.in/AboutUs/" target="_blank">**Contact With Me**</a></h4>
 
 
@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
 <a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40" height="40"/>
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
