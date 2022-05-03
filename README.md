@@ -62,6 +62,10 @@
   <a href="https://babeljs.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
   </a>
+  
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://technokrats.in/wp-content/uploads/2020/11/Content1-7.png" alt="jquery" width="40" height="40"/>
+  </a>
 </div>
 
 - <h3 align="left">Database:</h3>
@@ -114,5 +118,5 @@
   </a> 
 </div>
 
-- (Emoji Link Are Here: http://www.symbols-n-emoticons.com/p/gif-animated-emoji.html)
+- (Emoji's Links Are Here: http://www.symbols-n-emoticons.com/p/gif-animated-emoji.html)
 
