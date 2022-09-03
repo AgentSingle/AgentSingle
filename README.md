@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src='https://www.smileysapp.com/gif-emoji/waving-hi.gif' alt='emoji' width="60" height="60">
   I'm SUDIPTA MANDAL
-  <img src='https://www.smileysapp.com/gif-emoji/cheers.gif' alt='emoji' width="60" height="60">
 </h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
