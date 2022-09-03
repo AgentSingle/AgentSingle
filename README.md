@@ -8,7 +8,7 @@
 
 <h3 align="center">
   <a href="https://www.youtube.com/channel/UCOmjF9E-0F-H2Zo3oyCKb4A" target="_blank">
-  <img src='https://logolook.net/wp-content/uploads/2021/06/Youtube-Logo.png' alt='emoji' width="100" height="60">
+  <img src='https://freepngimg.com/download/youtube/77793-logo-marketing-subscribe-youtube-internet-free-clipart-hd.png' alt='YouTube' width="100" height="100">
 </a></h3>
 
 - 💥 <a href="https://github.com/AtaOta/VUE_AI_CAROUSEL" target="_blank">[ vue-ai-carousel ]</a> : <a href="https://www.npmjs.com/package/vue-ai-carousel" target="_blank">[ NPM Link ]</a></h3>
