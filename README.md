@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src='https://www.smileysapp.com/gif-emoji/waving-hi.gif' alt='emoji' width="60" height="60">
+  <img src='https://www.smileysapp.com/gif-emoji/waving-hi.gif' alt='emoji' width="60" height="60"> </br>
   I'm SUDIPTA MANDAL
 </h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
