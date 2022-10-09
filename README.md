@@ -10,8 +10,9 @@
   <img src='https://freepngimg.com/download/youtube/77793-logo-marketing-subscribe-youtube-internet-free-clipart-hd.png' alt='YouTube' width="100" height="100">
 </a></h3>
 
-- 💥 <a href="https://github.com/AtaOta/VUE_AI_CAROUSEL" target="_blank">[ vue-ai-carousel ]</a> : <a href="https://www.npmjs.com/package/vue-ai-carousel" target="_blank">[ NPM Link ]</a></h3>
+- 💥 <a href="https://github.com/AtaOta/VUE_AI_CAROUSEL" target="_blank">[ vue-ai-carousel ]</a> : <a href="https://www.npmjs.com/package/vue-ai-carousel" target="_blank">[ NPM Link ]</a>
 
+- 💥 <a href="https://ataota.github.io/Remage.github.io/" target="_blank">TRY IMAGE CROPPER [ReImage]</a>
 
 - 💥 I’m currently working on ataota.in **ATAOTA INDIA**
 
