@@ -16,8 +16,6 @@
 
 - 💥 I’m currently working on ataota.in **ATAOTA INDIA**
 
-- 💥 All of my projects are available at [https://github.com/AtaOta](https://github.com/AtaOta)
-
 - 💥 Ask me about **javascript, python, django, vue, html & css**
 - <h4><a href="https://ataota.in/AboutUs/" target="_blank">**Contact With Me**</a></h4>
 
