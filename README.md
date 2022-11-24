@@ -90,8 +90,8 @@
 <div align="center">
   <a href="https://www.microsoft.com/en-in/" target="_blank"> 
     <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4sQDc?ver=30c2&q=90&m=6&h=40&w=40&b=%23FFFFFFFF&l=f&o=t&aim=true" alt="PyCharm" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://icons.iconarchive.com/icons/igh0zt/ios7-style-metro-ui/256/MetroUI-Folder-OS-Ubuntu-Alt-icon.png" alt="linux" width="40" height="40"/> 
+  <a href="https://ubuntu.com/desktop" target="_blank"> 
+    <img src="https://w7.pngwing.com/pngs/808/365/png-transparent-ubuntu-server-edition-long-term-support-installation-linux-linux-lamp-linux-ubuntu-16-thumbnail.png" alt="linux" width="40" height="40"/> 
   </a> 
 </div>
 
@@ -118,6 +118,13 @@
   <a href="https://app.diagrams.net/" target="_blank"> 
     <img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82?mode=scale&q=90&h=200&w=200&background=%23464646" alt="draw.io" width="40" height="40"/> 
   </a> 
+  <a href="https://inkscape.org/" target="_blank"> 
+    <img src="https://media.inkscape.org/static/images/inkscape-logo.svg" alt="inkscape" width="40" height="40"/> 
+  </a>
+  <a href="https://www.protopie.io/" target="_blank"> 
+    <img src="https://images.ctfassets.net/5pwbsaatpdfh/4pDKZwYKigmJ0t9yurmwGw/43cfcbf6d504da9b4cf4e06ddc9bef83/img_logo05.png" alt="protopie.io" width="40" height="40"/> 
+  </a>
+  
 </div>
 
 - (Emoji's Links Are Here: http://www.symbols-n-emoticons.com/p/gif-animated-emoji.html)
