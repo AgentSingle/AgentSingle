@@ -45,13 +45,16 @@
     <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/>
   </a> 
   <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+    <img src="https://assets.materialup.com/uploads/0f1bc635-e74b-4c29-95fc-1f016bb66c3c/attachment.png" alt="vuejs" width="40" height="40"/> 
   </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
   <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://flet.dev/" target="_blank"> 
+    <img src="https://i.stack.imgur.com/qoIkr.png" alt="Flet Python" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="react" width="40" height="40"/> 
   </a> 
 </div>
 
