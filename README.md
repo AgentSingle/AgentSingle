@@ -45,7 +45,7 @@
     <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/>
   </a> 
   <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://assets.materialup.com/uploads/0f1bc635-e74b-4c29-95fc-1f016bb66c3c/attachment.png" alt="vuejs" width="40" height="40"/> 
+    <img src="https://images.ctfassets.net/ooa29xqb8tix/RrX9HCiZ8qPoIpJSlHphR/f9778b44e2b768d31fafb4ac70956682/vue-logo.png?w=400&q=50" alt="vuejs" width="40" height="40"/> 
   </a>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="40" height="40"/> 
