@@ -44,6 +44,9 @@
 
 - <h3 align="left">Framewroks:</h3>
 <div align="center">
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" alt="flutter" width="40" height="40"/>
+  </a> 
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/>
   </a> 
