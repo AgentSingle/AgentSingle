@@ -79,7 +79,7 @@
   </a>
 </div>
 
-- <h3 align="left">Database:</h3>
+- <h3 align="left">LoadBalancer + Server + Database:</h3>
 <div align="center">
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
