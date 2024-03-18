@@ -32,6 +32,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/100px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> 
   </a> 
+  
 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://www.freeiconspng.com/thumbs/html5-icon/w3c-html5-logo-0.png" alt="html5" width="40" height="40"/> 
@@ -39,6 +40,10 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="css3" width="40" height="40"/>
   </a>
+  
+  <a href="https://dart.dev/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="javascript" width="40" height="40"/> 
+  </a> 
 </div>
 
 
