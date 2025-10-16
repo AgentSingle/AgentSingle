@@ -5,10 +5,10 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 
-<h3 align="center">
+<!-- <h3 align="center">
   <a href="https://www.youtube.com/channel/UCOmjF9E-0F-H2Zo3oyCKb4A" target="_blank">
   <img src='https://freepngimg.com/download/youtube/77793-logo-marketing-subscribe-youtube-internet-free-clipart-hd.png' alt='YouTube' width="100" height="100">
-</a></h3>
+</a></h3> -->
 
 
 - 💥 <a href="https://github.com/AtaOta/VUE_AI_CAROUSEL" target="_blank">[ vue-ai-carousel ]</a> : <a href="https://www.npmjs.com/package/vue-ai-carousel" target="_blank">[ NPM Link ]</a>
@@ -17,10 +17,7 @@
 
 - 💥 <a href="https://ataota.github.io/QRgen.github.io/" target="_blank">QR-CODE GENERATIOR</a>
 
-- 💥 I’m currently working on ataota.in **ATAOTA INDIA**
-
-- 💥 Ask me about **javascript, python, django, vue, html & css**
-- <h4><a href="https://ataota.in/AboutUs/" target="_blank">**Contact With Me**</a></h4>
+<!-- <h4><a href="https://ataota.in/AboutUs/" target="_blank">**Contact With Me**</a></h4> -->
 
 
 - <h3 align="left">Languages:</h3>
@@ -50,10 +47,10 @@
 - <h3 align="left">Framewroks:</h3>
 <div align="center">
   <a href="https://flutter.dev/" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" alt="flutter" width="40" height="40"/>
+    <img src="https://storage.googleapis.com/cms-storage-bucket/flutter-logo-dark.1870bdaf4a9523a10d5b.svg" alt="flutter" width="80" height="120"/>
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/>
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="django" width="40" height="80"/>
   </a> 
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://images.ctfassets.net/ooa29xqb8tix/RrX9HCiZ8qPoIpJSlHphR/f9778b44e2b768d31fafb4ac70956682/vue-logo.png?w=400&q=50" alt="vuejs" width="40" height="40"/> 
@@ -61,12 +58,18 @@
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="40" height="40"/> 
   </a> 
+  <a href="https://grafana.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://v2.tauri.app/" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/54536011?s=200&v=4" alt="nodejs" width="40" height="40"/> 
+  </a> 
   <a href="https://flet.dev/" target="_blank"> 
     <img src="https://i.stack.imgur.com/qoIkr.png" alt="Flet Python" width="40" height="40"/> 
   </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
+  <!-- <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="react" width="40" height="40"/> 
-  </a> 
+  </a>  -->
 </div>
 
 
@@ -87,10 +90,13 @@
 - <h3 align="left">LoadBalancer + Server + Database:</h3>
 <div align="center">
   <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="80"/> 
   </a> 
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.sqlite.org/download.html" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="postgresql" width="80" height="80"/> 
   </a> 
   <a href="https://redis.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
@@ -102,8 +108,12 @@
 
 - <h3 align="left">OS [operating systems]:</h3>
 <div align="center">
-  <a href="https://www.microsoft.com/en-in/" target="_blank"> 
-    <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4sQDc?ver=30c2&q=90&m=6&h=40&w=40&b=%23FFFFFFFF&l=f&o=t&aim=true" alt="PyCharm" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-in/windows" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.android.com" target="_blank"> 
+    <img src="https://developer.android.com/static/images/brand/android-head_3D.png" alt="linux" width="40" height="40"/> 
+  </a> 
   <a href="https://ubuntu.com/desktop" target="_blank"> 
     <img src="https://w7.pngwing.com/pngs/808/365/png-transparent-ubuntu-server-edition-long-term-support-installation-linux-linux-lamp-linux-ubuntu-16-thumbnail.png" alt="linux" width="40" height="40"/> 
   </a> 
@@ -143,6 +153,4 @@
   </a>
   
 </div>
-
-- (Emoji's Links Are Here: http://www.symbols-n-emoticons.com/p/gif-animated-emoji.html)
 
